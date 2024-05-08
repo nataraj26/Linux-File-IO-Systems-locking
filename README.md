@@ -130,12 +130,9 @@ return 0;
 
 ## FILECOPYING
 ![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
 
 ## FILE LOCKING
-
-![alt text](image-3.png)
+![alt text](image-1.png)
 
 # RESULT:
 The programs are executed successfully.
